@@ -36,7 +36,6 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 - [ ] Window functions (`RANK`, `ROW_NUMBER`, `LAG`, `LEAD`)
 - [ ] Production data analysis mini project
 
-```
 
 ## 🔗 Resources
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
