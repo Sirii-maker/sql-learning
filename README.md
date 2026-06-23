@@ -13,9 +13,9 @@ This repository contains my SQL learning journey and practice projects.
 To improve my SQL skills for manufacturing data analysis and business intelligence.
 
 ## Learning Progress
-- [ ] SQL Basics
-- [ ] Filtering Data
-- [ ] Sorting Data
+- [X] SQL Basics
+- [X] Filtering Data
+- [X] Sorting Data
 - [ ] Aggregation
 - [ ] Joins
 - [ ] Power BI Integration
