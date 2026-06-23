@@ -20,6 +20,9 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 
 ### 2️⃣ Filtering + Sorting
 - [ ] `AND` / `OR` / `NOT`
+- [ ] `BETWEEN`
+- [ ] `LIKE`
+- [ ] `IN`
 - [X] `ORDER BY`
 
 ### 3️⃣ Aggregate functions
