@@ -1,5 +1,5 @@
 -- SELECT
-SELECT *
+SELECT *  //select all columns
 FROM Customers;
 
 -- DISTINCT
