@@ -1,5 +1,9 @@
+-- ================================
+-- Topic: Basic Queries
+-- Source: W3Schools SQL Tutorial
+-- ================================
 -- SELECT
-SELECT *  //select all columns
+SELECT *  --select all columns
 FROM Customers;
 
 -- DISTINCT
