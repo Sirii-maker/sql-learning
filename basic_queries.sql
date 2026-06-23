@@ -2,7 +2,7 @@
 -- Topic: Basic Queries
 -- Source: W3Schools SQL Tutorial
 -- ================================
--- SELECT
+##SELECT
 SELECT *  --select all columns
 FROM Customers;
 
@@ -10,8 +10,8 @@ FROM Customers;
 SELECT DISTINCT Country
 FROM Customers;
 
--- WHERE
-SELECT *
+-- WHERE 
+SELECT *  -- filter records
 FROM Customers
 WHERE Country = 'Germany';
 
