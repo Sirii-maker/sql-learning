@@ -38,6 +38,8 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 
 
 ## 🔗 Resources
-- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
-- [W3Schools SQL Tryit Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
-
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/) — main reference
+- [W3Schools SQL Tryit Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) — practice online
+- [DataCamp - Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql) — structured course
+- [Udemy - The Complete SQL Bootcamp](https://www.udemy.com/course/the-complete-sql-bootcamp/) — in-depth practice
+- [Mimo - Learn SQL](https://getmimo.com/learn/sql) — daily practice
