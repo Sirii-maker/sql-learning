@@ -47,6 +47,22 @@ FROM Customers
 WHERE Country = 'Germany' 
 OR Country = 'Spain';
 
+-- NOT
+SELECT * 
+FROM Customers
+WHERE NOT Country = 'Spain';
+
+-- NOT LIKE
+SELECT *
+FROM Customers
+WHERE CustomerName
+NOT LIKE 'A%';
+
+-- NOT BETWEEN
+SELECT *
+FROM Customers
+WHERE CustomerID NOT BETWEEN 10 AND 60;
+
 
 
 
