@@ -66,7 +66,7 @@ WHERE CustomerID NOT BETWEEN 10 AND 60;
 -- NOT IN
 SELECT *
 FROM Customers
-WHERE City NOT In ('Paris,'London');
+WHERE City NOT In ('Paris','London');
 
 -- NOT Greater Than
 SELECT *
