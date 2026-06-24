@@ -73,5 +73,9 @@ SELECT *
 FROM Customers
 WHERE NOT CustomerID > 50;
 
+-- NOT Less Than
+SELECT *
+FROM Customers
+WHERE NOT CustomerID < 50;
 
 
