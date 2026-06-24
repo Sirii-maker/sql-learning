@@ -19,7 +19,7 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 - [x] `DISTINCT`
 
 ### 2️⃣ Filtering + Sorting
-- [ ] `AND` / `OR` / `NOT`
+- [X] `AND` / `OR` / `NOT`
 - [ ] `BETWEEN`
 - [ ] `LIKE`
 - [ ] `IN`
