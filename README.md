@@ -30,9 +30,9 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 - [X] `GROUP BY`
 
 ### 4️⃣ JOIN
-- [ ] `INNER JOIN`
-- [ ] `LEFT JOIN`
-- [ ] `RIGHT JOIN`
+- [X] `INNER JOIN`
+- [X] `LEFT JOIN`
+- [X] `RIGHT JOIN`
 
 ### 5️⃣ SQL Intermediate + Mini Project
 - [ ] Subqueries + `CASE WHEN`
