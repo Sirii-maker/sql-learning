@@ -26,8 +26,8 @@ To improve my SQL skills for manufacturing data analysis and business intelligen
 - [X] `ORDER BY`
 
 ### 3️⃣ Aggregate functions
-- [ ] `COUNT` `SUM` `AVG` `MIN` `MAX`
-- [ ] `GROUP BY`
+- [X] `COUNT` `SUM` `AVG` `MIN` `MAX`
+- [X] `GROUP BY`
 
 ### 4️⃣ JOIN
 - [ ] `INNER JOIN`
